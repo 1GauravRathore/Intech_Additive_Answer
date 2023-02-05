@@ -1,0 +1,4 @@
+random crashes   given a source code to test is randomly crashes because
+-Not initialising a variable but attempting to use its value.
+- Dereferencing a null pointer.
+- Reading or writing past the end of an array.
