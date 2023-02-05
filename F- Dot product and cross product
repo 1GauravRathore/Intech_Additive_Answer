@@ -1,0 +1,19 @@
+Cross Product of Vectors
+The Cross Product a×b of two vectors is another vector that is at right angles to both.
+a×b=absin(θ)n^
+Where n^ is perpendicular to both the vectors.
+
+ 
+  Dot product of two vectors
+Dot (Scalar) product:
+Dot product of two vectors it is the scalar quantity which is a product of the magnitude of vectors and the cosine of the angle between them.
+Represented as (⋅) between the vectors.
+A⋅B=A B cosθ
+θ: angle between vectors
+
+Dot product are uses for 
+1.	Checking whether 2 vectors are perpendicular.
+2.	Finding work done by a force.
+ 
+cross product are uses for
+When we have forces that involve rotation, or turning about a point or an axis.
